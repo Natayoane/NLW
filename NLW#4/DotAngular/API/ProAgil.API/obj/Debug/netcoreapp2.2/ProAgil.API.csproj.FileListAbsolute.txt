@@ -1,0 +1,14 @@
+C:\Users\bill-note\Desktop\DotAngular\API\ProAgil.API\bin\Debug\netcoreapp2.2\ProAgil.API.dll
+C:\Users\bill-note\Desktop\DotAngular\API\ProAgil.API\bin\Debug\netcoreapp2.2\ProAgil.API.deps.json
+C:\Users\bill-note\Desktop\DotAngular\API\ProAgil.API\bin\Debug\netcoreapp2.2\ProAgil.API.runtimeconfig.json
+C:\Users\bill-note\Desktop\DotAngular\API\ProAgil.API\bin\Debug\netcoreapp2.2\ProAgil.API.runtimeconfig.dev.json
+C:\Users\bill-note\Desktop\DotAngular\API\ProAgil.API\bin\Debug\netcoreapp2.2\ProAgil.API.pdb
+C:\Users\bill-note\Desktop\DotAngular\API\ProAgil.API\obj\Debug\netcoreapp2.2\ProAgil.API.csprojAssemblyReference.cache
+C:\Users\bill-note\Desktop\DotAngular\API\ProAgil.API\obj\Debug\netcoreapp2.2\ProAgil.API.csproj.CoreCompileInputs.cache
+C:\Users\bill-note\Desktop\DotAngular\API\ProAgil.API\obj\Debug\netcoreapp2.2\ProAgil.API.RazorAssemblyInfo.cache
+C:\Users\bill-note\Desktop\DotAngular\API\ProAgil.API\obj\Debug\netcoreapp2.2\ProAgil.API.RazorAssemblyInfo.cs
+C:\Users\bill-note\Desktop\DotAngular\API\ProAgil.API\obj\Debug\netcoreapp2.2\ProAgil.API.AssemblyInfoInputs.cache
+C:\Users\bill-note\Desktop\DotAngular\API\ProAgil.API\obj\Debug\netcoreapp2.2\ProAgil.API.AssemblyInfo.cs
+C:\Users\bill-note\Desktop\DotAngular\API\ProAgil.API\obj\Debug\netcoreapp2.2\ProAgil.API.RazorTargetAssemblyInfo.cache
+C:\Users\bill-note\Desktop\DotAngular\API\ProAgil.API\obj\Debug\netcoreapp2.2\ProAgil.API.dll
+C:\Users\bill-note\Desktop\DotAngular\API\ProAgil.API\obj\Debug\netcoreapp2.2\ProAgil.API.pdb
